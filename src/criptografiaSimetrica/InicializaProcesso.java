@@ -4,6 +4,7 @@
 */
 
 package criptografiaSimetrica;
+import criptografiaSimetrica.dados.Display;
 
 public class InicializaProcesso {
 	
